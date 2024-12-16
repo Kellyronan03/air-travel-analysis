@@ -1,0 +1,24 @@
+Logistic Regression Accuracy: 0.6477896695160643
+Logistic Regression Confusion Matrix:
+Predicted\Actual  0    1    2    3
+       0       170009   58895   12   0   
+       1       96214   124557   19   0   
+       2       1   13   13938   0   
+       3       7424   5159   0   0   
+
+Random Forest Accuracy: 0.6343321973538607
+Random Forest Confusion Matrix:
+Predicted\Actual  0    1    2    3
+       0       193698   35206   12   0   
+       1       126326   94445   19   0   
+       2       0   0   13952   0   
+       3       9344   3239   0   0   
+
+Naive Bayes Accuracy: 0.5928384998351675
+Naive Bayes Confusion Matrix:
+Predicted\Actual  0    1    2    3
+       0       160105   68811   0   0   
+       1       101499   119291   0   0   
+       2       10706   308   2938   0   
+       3       7544   5039   0   0   
+

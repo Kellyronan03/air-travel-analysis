@@ -1,0 +1,30 @@
+Filling in NULL values to fix schema issues (values shifting left)
+
+
+DepTime --> -1
+ArrTime --> -1
+
+ActualElapsedTime --> -1
+AirTime --> -1
+
+ArrDelay --> -1000
+DepDelay --> -1000
+
+TaxiIn --> -1
+TaxiOut --> -1
+
+CancellationCode --> 'N/A'
+
+CarrierDelay --> -1
+WeatherDelay --> -1
+NASDelay --> -1
+SecurityDelay --> -1
+LateAircraftDelay --> -1
+
+
+Create 'Date' column
+Remove 'Year and DayofMonth' columns
+
+
+
+
