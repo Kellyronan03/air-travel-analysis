@@ -1,4 +1,4 @@
-# ✈️ US Flight Delay Analysis – CSC1109 Project
+# ✈️ US Flight Delay Analysis
 
 ## Overview
 
